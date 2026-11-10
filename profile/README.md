@@ -1,1 +1,1 @@
-![asphodel](./banner.png)
+![asphodel](./banner.gif)
